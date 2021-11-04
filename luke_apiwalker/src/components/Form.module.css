@@ -1,0 +1,7 @@
+form {
+    height: 5%;
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
